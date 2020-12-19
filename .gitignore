@@ -1,0 +1,7 @@
+node_modules/
+logs
+.vscode
+.DS_Store
+.env
+
+git_related.txt
