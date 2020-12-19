@@ -42,3 +42,21 @@ function run3() {
     let l4 = "bar2"; // Identifier 'l4' has already been declared
 }
 run3()
+
+
+function run4(){
+    const c1 = {
+        x:1,
+        y:2
+    };
+    c1.x = 11;  // if nested object , then const can be edited
+
+    console.log(c1)
+
+    const c2 = 'constant 1';
+    c2 = "constant 2"; // if not nested object , then const can not be edited
+    console.log(c2)
+
+}
+
+run4()
