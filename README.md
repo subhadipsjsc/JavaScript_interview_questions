@@ -10,6 +10,21 @@ Answer : folder **var_let_const**
 <br>
 <br>
 
-###  Question : Event loop 
+###  Question : what is Event loop 
 
 Answer : folder **var_let_const**
+
+<br>
+<br>
+
+###  Question : what is callback function
+
+Answer : folder **callback**
+
+
+<br>
+<br>
+
+###  Question : what is promise
+
+Answer : folder **promise**
